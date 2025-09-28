@@ -10,6 +10,7 @@
 
 ## 🏃‍♀️ Activities
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=due-it-you&theme=2077)
+[![GitHub Streak](https://streak-stats.demolab.com?user=due-it-you&theme=great-gatsby)](https://git.io/streak-stats)
 <div align="left">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=due-it-you&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=due-it-you&theme=vue-dark&layout=compact" />
